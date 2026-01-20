@@ -38,25 +38,6 @@ I build end-to-end web applications and explore machine learning to add intellig
 - Scalable backend architectures  
 
 ---
-<!--
-## 🚀 Highlighted Projects
-- **SwapX** – Full-stack web app using Firebase  
-  👉 https://github.com/yourusername/SwapX  
-
-- **ML Project** – Machine learning model for prediction/classification  
-  👉 https://github.com/yourusername/ml-project  
-
-- **IoT / Hardware Project** – Smart device prototype  
-  👉 https://github.com/yourusername/iot-project  
-
----
--->
-<!--
-## 📈 GitHub Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasee-t&layout=compact&hide_border=true&theme=tokyonight)
-
----
--->
 
 ## Let's connect!
 <p align="left">
