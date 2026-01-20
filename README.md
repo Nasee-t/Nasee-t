@@ -1,4 +1,4 @@
-## Hola! I'm Naseeha
+<p align="center"><img width="80%" alt="Hola! I'm Naseeha." src="./assets/git_header.png" /></p>
 
 ## Full Stack & Machine Learning Developer
 
@@ -9,7 +9,7 @@ I build end-to-end web applications and explore machine learning to add intellig
 ## 🛠️ Tech Stack
 <h4>Languages:</h4> 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 <h4>Frontend:</h4> 
 <p align="left">
@@ -48,6 +48,12 @@ I build end-to-end web applications and explore machine learning to add intellig
 
 - **IoT / Hardware Project** – Smart device prototype  
   👉 https://github.com/yourusername/iot-project  
+
+---
+-->
+<!--
+## 📈 GitHub Activity
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasee-t&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 -->
