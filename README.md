@@ -2,9 +2,7 @@
 
 ## Full Stack & Machine Learning Developer
 
-I build end-to-end web applications and explore machine learning to add intelligent features to real-world products.
-
----
+Curious by nature and always exploring how things work under the hood. I’m currently building end-to-end web applications and experimenting with machine learning to bring intelligent features to real-world products.
 
 ## 🛠️ Tech Stack
 <h4>Languages:</h4> 
@@ -13,11 +11,11 @@ I build end-to-end web applications and explore machine learning to add intellig
 </p>
 <h4>Frontend:</h4> 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 <h4>Backend:</h4> 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,fastapi" />
+  <img src="https://skillicons.dev/icons?i=mysql,fastapi,nodejs,expressjs,mongodb" />
 </p>
 <h4>ML:</h4> 
 <p align="left">
